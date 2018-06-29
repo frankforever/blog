@@ -1,10 +1,14 @@
 **Jupyter Basics**
 
+Jupyter官网：[](https://jupyter.org)
+
 用conda安装jupyter，方便管理，之后学一学conda管理。
+
+Jupyter nbviewer：[](https://nbviewer.jupyter.org/)
 
 Jupyter shortcut：
 
-![](C:\Users\Hao\Desktop\blog\notebook_shortcuts_4_0.png)
+![notebook shortcut](C:\project\blog\assets\notebook_shortcuts_4_0.png)
 
 python下使用 `？` 调取帮助
 
@@ -109,7 +113,7 @@ u'sha1:6c2164fc2b22:ed55ecf07fc0f985ab46561483c0e888e8964ae6'
 
 
 
-**markdown :**
+**Something for markdown :**
 
 for math：
 
@@ -121,3 +125,20 @@ $$ \int_0^\infty f(\phi) \partial \phi$$
 #for python
 print("hello")
 ```
+
+
+**Something for Python**
+
+**LibROSA**
+
+LibROSA is a python package for music and audio analysis. It provides the building blocks necessary to create music information retrieval systems. 
+
+[https://librosa.github.io/librosa/]()
+
+有基于tensorflow实现的wavenet
+
+[](https://github.com/librosa/librosa)
+
+[](https://github.com/ibab/tensorflow-wavenet)
+
+[](https://nbviewer.jupyter.org/github/librosa/librosa/blob/master/examples/LibROSA%20demo.ipynb)

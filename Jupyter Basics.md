@@ -1,10 +1,36 @@
 **Jupyter Basics**
 
-Jupyter官网：[](https://jupyter.org)
+[Jupyter官网](https://jupyter.org)
 
 用conda安装jupyter，方便管理，之后学一学conda管理。
 
-Jupyter nbviewer：[](https://nbviewer.jupyter.org/)
+修改jupyter tab空格个数文件：\.jupyter\nbconfig\edit.json
+
+修改jupyter界面文件：css文件
+
+Jupyter notebook有扩展插件，安装扩展包：
+
+[Jupyter扩展插件](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650737481&idx=2&sn=2b3f6df7c0c8b3d835c1a232ac4ad330&chksm=871acf37b06d4621d98d9fa88250b348f5e5cc6772764e4411cb85d32102ad303fbebdd043a6&scene=0#rd)
+
+```python
+# Install Jupyterextension package
+pip install jupyter_contrib_nbextensions
+jupyter contrib nbextension install—user
+# Install configurator
+pip install jupyter_nbextensions_configurator
+# Install theme
+pip install jupyterthemes
+## Change theme (This is my default)
+''' Note that you need to use 1 command to configure the setting, if you do 2 jt command, the second one will replace the first one.
+'''
+jt -t grade3 -T
+```
+
+**Collapsible Headings** 可将长代码折叠。
+
+**Autopep8** 可帮忙写入所有空格。
+
+[Jupyter nbviewer](https://nbviewer.jupyter.org/)
 
 Jupyter shortcut：
 
@@ -126,6 +152,18 @@ $$ \int_0^\infty f(\phi) \partial \phi$$
 print("hello")
 ```
 
+- 加粗 `Ctrl + B`
+- 斜体 `Ctrl + I`
+- 引用 `Ctrl + Q`
+- 插入链接 `Ctrl + L`
+- 插入代码 `Ctrl + K`
+- 插入图片 `Ctrl + G`
+- 提升标题 `Ctrl + H`
+- 有序列表 `Ctrl + O`
+- 无序列表 `Ctrl + U`
+- 横线 `Ctrl + R`
+- 撤销 `Ctrl + Z`
+- 重做 `Ctrl + Y`
 
 **Something for Python**
 

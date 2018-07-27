@@ -21,5 +21,12 @@ np.ndarray.flatten(order='C')	#Return a copy of the array collapsed into one dim
 np.argmax(a, axis=None, out=None)	#Returns the indices of the maximum values along an axis.
 
 np.bincount(x, weights=None, minlength=0)	#Count number of occurrences of each value in array 											of non-negative ints.
+
+np.linalg.norm(x, ord=None, axis=None, keepdims=False)	#Returns: float or ndarray Norm of the 														matrix or vector(s).
+
+np.array_split(ary, indices_or_sections, axis=0)	#Return the list of multiple sub-arrays.
+
+np.vstack(tup)	#Stack arrays in sequence vertically (row-wise).
+np.hstack(tup)	#Stack arrays in sequence horizontally (column-wise).
 ```
 

@@ -4,6 +4,12 @@
 
 [MarkDown输入Latex](https://oiltang.com/2014/05/04/markdown-and-mathjax/)
 
+[Latex数学符号速查](https://blog.csdn.net/TRiddle/article/details/53959368)
+
+[Latex各种命令，符号](https://blog.csdn.net/garfielder007/article/details/51646604)
+
+[Latex符号查询](http://detexify.kirelabs.org/symbols.html#)
+
 ## **希腊字母表**
 
 | 希腊字母大小写                 | Latex形式 | 希腊字母大小写            | Latex形式 |
@@ -20,6 +26,12 @@
 | $\kappa$  $K$                  |           | $\chi$  $X$               |           |
 | $\lambda$  $\Lambda$           |           | $\psi$  $\Psi$            |           |
 | $\mu$  $M$                     |           | $\omega$  $\Omega$        |           |
+
+## 关系代数符号
+
+and（$\land$）, or（$\lor$）, not（$\lnot$）
+
+$= ,\neq,\leq, \geq, >, <$
 
 
 

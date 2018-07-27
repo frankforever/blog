@@ -1,4 +1,6 @@
-**CS231 Lesson1-2 note**
+# **CS231 Notes**
+
+## ** Lesson1-2**
 
 交叉检验通常用于小数据集，深度学习数据集过大较少使用。
 
@@ -67,3 +69,8 @@ t-SNE（T分布随机近邻嵌入算法）是一种数据可视化算法。属�
 参考书：
 
 [A Few Useful Things to Know about Machine Learning](./assets/A Few Useful Things to Know about Machine Learning.pdf)
+
+
+
+## **Lecture 3**
+
